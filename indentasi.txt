@@ -1,3 +1,0 @@
-Statement tingkat 1:
-	Statement tingkat 2()
-	Statement tingkat 2 yang kedua()
